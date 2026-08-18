@@ -279,3 +279,12 @@ You should see:
 03_Diagnostic_churn.png
 04_Retention_simulator.png
 README.md
+
+## Power BI Dashboard
+The Power BI file contains the complete interactive dashboard, including:
+- Executive revenue and retention analysis
+-Customer segmentation and revenue analysis
+- Churn diagnostics
+-Retention impact simulator and what-if analysis
+**Power BI File:**
+'SaaS_Revenue_Churn_Analytics.phix

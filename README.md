@@ -279,4 +279,3 @@ You should see:
 03_Diagnostic_churn.png
 04_Retention_simulator.png
 README.md
-Revenue_customer_value.png

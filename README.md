@@ -265,13 +265,7 @@ Customer lifetime value modeling
 Survival analysis
 Automated data pipelines
 Streamlit-based scenario modeling
-More advanced retention ROI optimization
-
-### One thing I want you to do **before anything else**
-
-After you paste and commit that README, go back to the repository's main **Code** page.
-
-You should see:
+More advanced retention ROI optimization.
 
 ```text
 01_Executive_overview.png

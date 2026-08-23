@@ -60,7 +60,7 @@ The projected ARR impact is based on the estimated average ARR per customer mult
 
 Provides a high-level view of SaaS revenue, customer activity, retention, and churn performance.
 
-![Executive Overview](01_Executive_overview.png)
+![Executive Overview](./docs/screenshots/01_Executive_overview.png)
 
 ### Key questions answered
 
@@ -75,7 +75,7 @@ Provides a high-level view of SaaS revenue, customer activity, retention, and ch
 
 Analyzes customer-level revenue and unit economics to understand the relationship between customers, ARR, MRR, seats, and customer value.
 
-![Revenue & Customer Value](02_Revenue_customer_value.png)
+![Revenue & Customer Value](./docs/screenshots/02_Revenue_customer_value.png)
 
 ### Key questions answered
 
@@ -90,7 +90,7 @@ Analyzes customer-level revenue and unit economics to understand the relationshi
 
 Uses statistical analysis to investigate potential relationships between customer behavior, support activity, tenure, and churn.
 
-![Diagnostic Churn Analytics](03_Diagnostic_churn.png)
+![Diagnostic Churn Analytics](./docs/screenshots/03_Diagnostic_churn.png)
 
 ### Key questions answered
 
@@ -111,7 +111,7 @@ Correlation was used as a diagnostic technique to identify potentially important
 
 An interactive Power BI What-If analysis designed to estimate the potential business impact of reducing churn.
 
-![Retention Impact Simulator](04_Retention_simulator.png)
+![Retention Impact Simulator](./docs/screenshots/04_Retention_simulator.png)
 
 The simulator allows decision-makers to evaluate scenarios such as:
 
